@@ -7,7 +7,7 @@ cask "agentde" do
   desc "Native macOS home for terminal coding agents like Claude Code and Codex"
   homepage "https://agentde.github.io/agentde"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "AgentDE.app"
 
