@@ -1,6 +1,6 @@
 cask "agentde" do
-  version "0.4.1"
-  sha256 "5fccb54b6de79c1bd6f0e35a730a836a368a21c2a9d171bd11e7011fb8f1929e"
+  version "0.4.2"
+  sha256 "f1dbd5c928b5605b5c0a552295b32623ba59e958558ca8c5b209f87f1a6484e5"
 
   url "https://github.com/AgentDE/agentde/releases/download/v#{version}/AgentDE-#{version}.zip"
   name "AgentDE"
